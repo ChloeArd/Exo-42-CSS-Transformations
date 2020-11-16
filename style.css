@@ -36,7 +36,7 @@ p {
     height: 200px;
     width: 200px;
     border: 2px dashed purple;
-    display: inline-block;
+    margin-left: 30rem;
 }
 
 .echelle {
